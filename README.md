@@ -14,18 +14,18 @@
 
 ## User Service
 
-post /user (email: string, password:string)
-get /users 
-get /user (email:string)
+#### post /user (email: string, password:string)
+#### get /users 
+#### get /user (email:string)
 
 ## Statistics Service
 
-get /statistics
+#### get /statistics
 
 ## Bookings Service
 
-post /booking (userEmail: string, hotel: string)
-get /booking (userEmail: string, hotel: string)
-get /bookings
-get /bookingsByHotel (hotel: string)
-get /bookingsByEmail (userEmail: string)
+#### post /booking (userEmail: string, hotel: string)
+#### get /booking (userEmail: string, hotel: string)
+#### get /bookings
+#### get /bookingsByHotel (hotel: string)
+#### get /bookingsByEmail (userEmail: string)
