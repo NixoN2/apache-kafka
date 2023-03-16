@@ -1,16 +1,16 @@
 # apache-kafka
 
-### Начало работы
+## Начало работы
 
-# docker-compose up
+### docker-compose up
 
-# npm install
+### npm install
 
-# npm run start
+### npm run start
 
-# Отправить запросы, например, через Postman
+### Отправить запросы, например, через Postman
 
-# Смотреть в консоль, где работает LoggerService. Отправить get запрос на /statistics, где можно будет увидеть статистику по запросам.
+### Смотреть в консоль, где работает LoggerService. Отправить get запрос на /statistics, где можно будет увидеть статистику по запросам.
 
 ## User Service
 
